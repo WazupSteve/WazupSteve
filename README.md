@@ -4,9 +4,9 @@
 - 📰 Up to date on all the latest AI models.
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/amit-prakash2005)
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wazupsteve&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wazupsteve)
 
 ## Projects Showcase
 - [Project 1](https://github.com/WazupSteve/MP3-Transcription): MP3-Transcriber using Whisper
