@@ -11,4 +11,6 @@
 ## Projects Showcase
 - [Project 1](https://github.com/WazupSteve/MP3-Transcription): MP3-Transcriber using Whisper
 - [Project 2](https://github.com/WazupSteve/Speech-To-Text): STS using Google-Cloud API
+
+## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
