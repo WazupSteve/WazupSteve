@@ -13,4 +13,4 @@
 - [Project 2](https://github.com/WazupSteve/Speech-To-Text): STS using Google-Cloud API
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{wazupsteve}/count.svg)
