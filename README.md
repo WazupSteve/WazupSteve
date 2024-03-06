@@ -1,7 +1,7 @@
 # Hi there, I'm [Amit Prakash]! 👋
-- 🚀 Studying B.Tech in AIML (Artificial Intelligence and Machine Learning) + Computer Science
-- 🌱 Always learning and exploring new technologies
-- 📰 Up to date on all the latest AI and ML news and AI models
+- 🚀 Studying B.Tech in AIML (Artificial Intelligence and Machine Learning) + Computer Science.
+- 🌱 Always learning and exploring new technologies.
+- 📰 Up to date on all the latest AI models.
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/amit-prakash2005)
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
