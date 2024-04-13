@@ -10,3 +10,6 @@
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{wazupsteve}/count.svg)
+
+## Commits Graph
+![Your Name's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wazupsteve)
