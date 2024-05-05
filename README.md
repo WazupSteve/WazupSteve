@@ -1,9 +1,9 @@
-# Hi there, I'm Amit Prakash! 👋
+# Hi there, I'm Amit Prakash!
 
-- 🚀 Studying B.Tech in AIML (Artificial Intelligence and Machine Learning) + Computer Science.
-- 🌱 Always learning and exploring new technologies.
-- 📰 Up to date on all the latest AI models.
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/amit-prakash2005)
+-  Studying B.Tech in AIML (Artificial Intelligence and Machine Learning) + Computer Science.
+-  Always learning and exploring new technologies.
+-  Up to date on all the latest AI models.
+-  Reach me on [LinkedIn](www.linkedin.com/in/amit-prakash2005)
 
 ## Languages and Tools
 
