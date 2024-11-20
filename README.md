@@ -16,12 +16,6 @@
 </a>
 </div>
 
-## Github Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wazupsteve&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wazupsteve)
-
 ## Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{wazupsteve}/count.svg)
