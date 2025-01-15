@@ -39,9 +39,9 @@
 <div align="center">
   
 ### 🌱 Currently Learning
-- Advanced Deep Learning
-- GPU Programming with CUDA
+ Advanced Deep Learning
+ GPU Programming with CUDA
 
 ### 🎯 2025 Goals
-- Contribute to Open Source Projects
+Contribute to Open Source Projects
 </div>
