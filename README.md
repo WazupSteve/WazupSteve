@@ -1,47 +1,42 @@
-# 👋 Hi there, I'm Amit Prakash!
+# <div align="center">**Amit Prakash**</div>
 
-## 🎓 About Me
-- Pursuing B.Tech in Computer Science with specialization in AI/ML
-- Keeping pace with the latest developments in AI models and their applications
-- Always eager to collaborate on innovative projects
-
-## 👥 Profile Views
 <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/{wazupsteve}/count.svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=GPU+Enthusiast;AI%2FML+Student;CUDA+Developer;Deep+Learning+Research" alt="Typing SVG" />
 </div>
 
-## 💻 Languages and Tools
 <div align="center">
-
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
-
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 </div>
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-prakash2005)
+---
 
-## 📊 GitHub Stats
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wazupsteve&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wazupsteve&layout=compact&theme=radical)
+## Tech Stack
+
+### Core Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+### GPU & ML Framework
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
 </div>
 
 ---
-<div align="center">
-  
-### 🌱 Currently Learning
-- Advanced Deep Learning
-- GPU Programming with CUDA
 
-### 🎯 2025 Goals
-Contribute to Open Source Projects
+<div align="center">
+
+## Current Focus
+
+**Advanced Deep Learning** | **CUDA Kernel Development** | **GPU Optimization** | **Open Source Contributions**
+
+</div>
+
 </div>
