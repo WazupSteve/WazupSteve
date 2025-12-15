@@ -1,30 +1,18 @@
-# <div align="center">**Amit Prakash**</div>
-<div align="center">
+working on performance optimization for ml systems.
 
+```
+c++ | cuda | pytorch
+```
 
-### Core Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+**interests:**
+- gpu programming & kernel optimization
+- reinforcement learning
+- distributed training & inference
 
-### GPU & ML Framework
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+open to collaborations.
 
-</div>
+**contact:** <br>
+Email : [amit05.prakash@gmail.com](mailto:amit05.prakash@gmail.com) <br>
+Twitter/X : [@amit05prakash](https://twitter.com/amit05prakash) <br>
+Website : [https://amitprakash.in/](https://amitprakash.in/)
 
----
-
-<div align="center">
-
-## Current Focus
-
-**Advanced Deep Learning** | **CUDA Kernel Development** | **GPU Optimization** | **Open Source Contributions**
-
-</div>
-
-</div>
