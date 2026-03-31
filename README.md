@@ -1,12 +1,12 @@
-working on performance optimization for ml systems.
+working on RL and post-training. Interested in GPU performance optimizations.
 
 ```
-c++ | cuda | pytorch
+python | c++ | pytorch
 ```
 
 **interests:**
-- gpu programming & kernel optimization
 - reinforcement learning
+- gpu programming & kernel optimization
 - distributed training & inference
 
 open to collaborations.
