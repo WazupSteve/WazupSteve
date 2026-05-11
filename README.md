@@ -1,15 +1,13 @@
-working on RL and post-training. Interested in GPU performance optimizations.
-
+working on RL and post-training. Deep in the RL mines.
 ```
 python | c++ | pytorch
 ```
 
 **interests:**
 - reinforcement learning
-- gpu programming & kernel optimization
-- distributed training & inference
+- LLM inference and performance optimization
 
-open to collaborations.
+open to collaborations and independent contractor work.
 
 **contact:** <br>
 Email : [amit05.prakash@gmail.com](mailto:amit05.prakash@gmail.com) <br>
